@@ -1,0 +1,5 @@
+1,plum,apple,peach,orange,pear,banana
+2,cherry,apple,peach,orange,pear,banana
+3,plum,mango,orange,pear,kiwi,strawberry
+4,plum,watermelon,avocado,orange,banana
+5,avocado,apple,orange,lemon,pear1

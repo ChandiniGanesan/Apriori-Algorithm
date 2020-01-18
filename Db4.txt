@@ -1,0 +1,5 @@
+1,A,B,C,D,E,F
+2,G,B,C,D,E,F
+3,A,H,D,E
+4,A,K,M,D,F
+5,M,B,D,N,E

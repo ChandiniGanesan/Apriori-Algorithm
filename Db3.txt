@@ -1,0 +1,5 @@
+1,Milk,Bread,Salad,Fruit,Soup,Noodle
+2,Beef,Bread,Salad,Fruit,Soup,Noodle
+3,Milk,Rice,Fruit,Soup,Pork,Lamb
+4,Milk,Chicken,Fish,Fruit,Noodle
+5,Fish,Bread,Fruit,Shrimp,Soup
